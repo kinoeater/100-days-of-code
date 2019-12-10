@@ -32,3 +32,12 @@ make the things slower but I decided to learn the missing points on the go
 - Angular setup
 - First hello angular project and angular concepts
 - Jump into type script, learn a lot of stuff in the typescrip and finished it but tomorrow want to do the same steps again.
+
+
+
+### Day 4: December 10, 2019
+
+**Today's Progress**: Watched the mosh's type script session once again by notting
+
+**Thoughts:** By taking notes I better understand the OOP and typescript basics.
+Th way how Mosh explains why we need the classes, coming from necessity of parameter adding to functions, interfaces... it was awesome..
