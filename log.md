@@ -41,3 +41,13 @@ make the things slower but I decided to learn the missing points on the go
 
 **Thoughts:** By taking notes I better understand the OOP and typescript basics.
 Th way how Mosh explains why we need the classes, coming from necessity of parameter adding to functions, interfaces... it was awesome..
+
+### Day 5: December 10, 2019
+
+**Today's Progress**: 
+-Spend so much time with F*ing intellisense on VsCode, finally figured it out that the problem is related to nodejs initial installation. Uninstall-reinstall with all suggssted features of nodejs resolved the intellisense (before I was not accepting to install extra nodejs features, it is downlading so much tools, which I didn't like in the first place as my computer has limited space)
+-Finished typescripting basics with a very beautiful like component exercise
+-Started to angular: what are the basics: first compoenent, created a componenet, registered it to a module and Add the element to html markup
+-new notes on angular and notes about typescrıpting
+
+**Thoughts:** good course I am pretty satisfied with the OOP basics
